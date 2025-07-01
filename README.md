@@ -1,2 +1,2 @@
 # diffusion-trip
-All my works about generative models
+All my works about generative models :)
